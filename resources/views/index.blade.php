@@ -22,6 +22,7 @@
       @include('components/base/header')
       @include('components/parts/banner')
       @include('components/parts/domain-checker')
+      @include('components/parts/comitment')
       @include('components/parts/package')
       @include('components/parts/contact')
       @include('components/base/footer')
