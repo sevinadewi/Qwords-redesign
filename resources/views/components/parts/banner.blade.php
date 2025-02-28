@@ -3,20 +3,20 @@
 	<div class="container-lg pt-5">
 		<div class="d-flex">
 			<div class="py-5 px-2">
-				<p class="fs-1 mt-3 fw-bold">
+				<p class=" mt-3 fw-bold" style="font-size: 50px">
 					Cloud Hosting <br> untuk <strong class="text-primary"> Kesuksesan Websitemu!</strong>
 				</p>
 				<p class="fw-light">
 					Qwords menawarkan layanan Cloud Hosting yang Cepat, Aman, dan Dukungan 24 jam untuk memenuhi kebutuhan hosting Anda. Tersertifikasi ISO 27001 dengan Data Center Tier 3. 
 				</p>
 
-				<p class="mt-5 mb-0 fw-light">
+				{{-- <p class="mt-5 mb-0 fw-light">
 					Jangan Lewatkan!
 				</p>
 
 				<p class="my-0 fs-6 fw-bold">
 					Cek sekarang dan dapatkan promo hingga <span class="text-danger">50%!</span>
-				</p>
+				</p> --}}
 
 				<div class="d-flex mt-0">
 					<button class="btn px-5 mx-1 my-3 btn-primary rounded-pill">Cek Domain</button>
@@ -37,7 +37,7 @@
 				</div>
 			</div>
 			<div class="p-5 w-75">
-				<img src="/assets/images/banner.png" class="img-fluid">
+				<img src="/assets/images/server1.png" class="img-fluid">
 			</div>
 		</div>
 	</div>
