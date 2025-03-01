@@ -25,6 +25,7 @@
       @include('components/parts/comitment')
       @include('components/parts/package')
       @include('components/parts/advertisement')
+      @include('components/parts/review')
       @include('components/parts/contact')
       @include('components/base/footer')
    </div>

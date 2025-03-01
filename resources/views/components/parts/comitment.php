@@ -28,7 +28,7 @@
         <!-- Kotak 4: (Tambah fitur lainnya jika diperlukan) -->
         <div class="border border-light rounded bg-white p-4 text-center" style="box-shadow: 0px 4px 10px rgba(243, 112, 4);">
             <img src="path/to/other-logo.png" alt="Other Features" class="mb-3" style="width: 60px; height: auto;">
-            <p class="fs-5 fw-semibold">Layanan Lain</p>
+            <p class="fs-5 fw-semibold">High Enterprise Server</p>
             <p class="text-secondary">Layanan tambahan yang mendukung kelancaran operasional website Anda.</p>
         </div>
 
