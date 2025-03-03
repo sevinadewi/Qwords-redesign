@@ -1,4 +1,4 @@
-# Qwords Redesign Landing Page
+# Qwords Redesign Landing Page 📝
 
 Proyek ini merupakan website berbasis Laravel yang mengkloning tampilan dan fitur utama dari Qwords.com. Website ini dikembangkan dengan menggunakan berbagai teknologi modern dan mendapatkan tampilan yang menarik.
 
