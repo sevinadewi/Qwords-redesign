@@ -59,3 +59,65 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+📌 Deskripsi
+
+Proyek ini adalah kloning dari website Qwords.com yang dibangun menggunakan Laravel. Website ini menyediakan informasi mengenai layanan Cloud Web Hosting dengan fitur-fitur unggulan.
+
+🚀 Cara Setup atau Instalasi Website
+
+1. Clone Repository
+
+git clone https://github.com/username/repository.git
+cd repository
+
+2. Install Dependencies
+
+Pastikan Anda sudah menginstal Composer dan Node.js, kemudian jalankan:
+
+composer install
+npm install
+
+3. Konfigurasi Environment
+
+Salin file .env.example menjadi .env dan atur konfigurasi database:
+
+cp .env.example .env
+
+Lalu, ubah konfigurasi database di file .env sesuai dengan database yang digunakan.
+
+4. Generate Key dan Migrate Database
+
+php artisan key:generate
+php artisan migrate --seed
+
+5. Jalankan Server
+
+php artisan serve
+
+Buka browser dan akses http://127.0.0.1:8000
+
+🛠️ Tech Stack / Teknologi
+
+Framework: Laravel 10
+
+Frontend: Bootstrap 5, CSS, Blade Templating Engine
+
+Backend: PHP, Laravel
+
+Database: MySQL / PostgreSQL
+
+Version Control: Git
+
+Package Manager: Composer, NPM
+
+🎨 Informasi Template
+
+Proyek ini menggunakan desain berbasis Bootstrap dengan beberapa komponen yang disesuaikan. Jika menggunakan template dari sumber tertentu, mohon cantumkan kredensial atau lisensi template di bawah ini:
+
+Nama Template: (Jika menggunakan template)
+
+Sumber: (Link atau penyedia template)
+
+Lisensi: (Jika berlaku)
