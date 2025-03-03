@@ -43,4 +43,18 @@ Proyek ini merupakan website berbasis Laravel yang mengkloning tampilan dan fitu
 http://127.0.0.1:8000
 
 
+## Tech Stack
+
+**Framework:** Laravel
+
+**Frontend:** Bootstrap
+
+
+## Informasi Template
+
+Proyek ini menggunakan template yang sudah disediakan dengan beberapa komponen yang disesuaikan. 
+
+- Sumber : https://github.com/balbalcode/rakamin-qwords-laravel 
+
+
 
